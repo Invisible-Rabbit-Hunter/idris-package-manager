@@ -1,0 +1,9 @@
+package ipm
+
+modules = Ipm
+
+sourcedir = src
+
+pkgs = contrib
+
+makefile = Makefile
